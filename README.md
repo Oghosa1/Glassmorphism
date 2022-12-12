@@ -1,16 +1,34 @@
-# glassmorphism
 
-A new Flutter project.
+# Glassmorphism
 
-## Getting Started
+A clean Flutter app depicting Glassmorphism in Flutter
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Insert gif or link to demo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Usage/Examples
+
+```javascript
+import Component from 'my-project'
+
+function App() {
+  return <Component />
+}
+```
+
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/Oghosa1/Glassmorphism/master/images/Screenshot_20221212-224433.jpg?token=GHSAT0AAAAAAB33PBM4DJXBNF5LEHDCCDQUY4XU2SQ)
+
+
+## Used By
+
+This project is used by the following companies:
+
+- Company 1
+- Company 2
+
